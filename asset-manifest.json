@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hi04-flight-management/static/css/main.aa8ea113.chunk.css",
+    "main.js": "/hi04-flight-management/static/js/main.475f7d8a.chunk.js",
+    "main.js.map": "/hi04-flight-management/static/js/main.475f7d8a.chunk.js.map",
+    "runtime-main.js": "/hi04-flight-management/static/js/runtime-main.ce06856c.js",
+    "runtime-main.js.map": "/hi04-flight-management/static/js/runtime-main.ce06856c.js.map",
+    "static/css/2.a0cfbefb.chunk.css": "/hi04-flight-management/static/css/2.a0cfbefb.chunk.css",
+    "static/js/2.71f3b529.chunk.js": "/hi04-flight-management/static/js/2.71f3b529.chunk.js",
+    "static/js/2.71f3b529.chunk.js.map": "/hi04-flight-management/static/js/2.71f3b529.chunk.js.map",
+    "index.html": "/hi04-flight-management/index.html",
+    "precache-manifest.15f7fd5863460225bbae9482b2758250.js": "/hi04-flight-management/precache-manifest.15f7fd5863460225bbae9482b2758250.js",
+    "service-worker.js": "/hi04-flight-management/service-worker.js",
+    "static/css/2.a0cfbefb.chunk.css.map": "/hi04-flight-management/static/css/2.a0cfbefb.chunk.css.map",
+    "static/css/main.aa8ea113.chunk.css.map": "/hi04-flight-management/static/css/main.aa8ea113.chunk.css.map",
+    "static/js/2.71f3b529.chunk.js.LICENSE.txt": "/hi04-flight-management/static/js/2.71f3b529.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/hi04-flight-management/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce06856c.js",
+    "static/css/2.a0cfbefb.chunk.css",
+    "static/js/2.71f3b529.chunk.js",
+    "static/css/main.aa8ea113.chunk.css",
+    "static/js/main.475f7d8a.chunk.js"
+  ]
+}
