@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hci-flight-management/precache-manifest.759d7fab3ea317b4cec4a72cf0d5db92.js"
+  "/hci-flight-management/precache-manifest.2b5a76b71b827c0d8ea82526e6491204.js"
 );
 
 self.addEventListener('message', (event) => {
