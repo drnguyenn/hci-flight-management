@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/hci-flight-management/static/css/main.51886e4c.chunk.css",
-    "main.js": "/hci-flight-management/static/js/main.81df0e1b.chunk.js",
-    "main.js.map": "/hci-flight-management/static/js/main.81df0e1b.chunk.js.map",
+    "main.css": "/hci-flight-management/static/css/main.9f7b9229.chunk.css",
+    "main.js": "/hci-flight-management/static/js/main.4ac78441.chunk.js",
+    "main.js.map": "/hci-flight-management/static/js/main.4ac78441.chunk.js.map",
     "runtime-main.js": "/hci-flight-management/static/js/runtime-main.b6025ffb.js",
     "runtime-main.js.map": "/hci-flight-management/static/js/runtime-main.b6025ffb.js.map",
-    "static/css/2.88f12322.chunk.css": "/hci-flight-management/static/css/2.88f12322.chunk.css",
-    "static/js/2.8fc23bee.chunk.js": "/hci-flight-management/static/js/2.8fc23bee.chunk.js",
-    "static/js/2.8fc23bee.chunk.js.map": "/hci-flight-management/static/js/2.8fc23bee.chunk.js.map",
+    "static/css/2.6164c976.chunk.css": "/hci-flight-management/static/css/2.6164c976.chunk.css",
+    "static/js/2.97ab2d22.chunk.js": "/hci-flight-management/static/js/2.97ab2d22.chunk.js",
+    "static/js/2.97ab2d22.chunk.js.map": "/hci-flight-management/static/js/2.97ab2d22.chunk.js.map",
     "index.html": "/hci-flight-management/index.html",
-    "precache-manifest.8c9d0189788ccda5346f90cf181d2e34.js": "/hci-flight-management/precache-manifest.8c9d0189788ccda5346f90cf181d2e34.js",
+    "precache-manifest.98e2bd4f79e172d6612bdb85625b23a2.js": "/hci-flight-management/precache-manifest.98e2bd4f79e172d6612bdb85625b23a2.js",
     "service-worker.js": "/hci-flight-management/service-worker.js",
-    "static/css/2.88f12322.chunk.css.map": "/hci-flight-management/static/css/2.88f12322.chunk.css.map",
-    "static/css/main.51886e4c.chunk.css.map": "/hci-flight-management/static/css/main.51886e4c.chunk.css.map",
-    "static/js/2.8fc23bee.chunk.js.LICENSE.txt": "/hci-flight-management/static/js/2.8fc23bee.chunk.js.LICENSE.txt",
+    "static/css/2.6164c976.chunk.css.map": "/hci-flight-management/static/css/2.6164c976.chunk.css.map",
+    "static/css/main.9f7b9229.chunk.css.map": "/hci-flight-management/static/css/main.9f7b9229.chunk.css.map",
+    "static/js/2.97ab2d22.chunk.js.LICENSE.txt": "/hci-flight-management/static/js/2.97ab2d22.chunk.js.LICENSE.txt",
     "static/media/homepage.styles.scss": "/hci-flight-management/static/media/background-image.6641c9d5.jpg",
     "static/media/cable.jpg": "/hci-flight-management/static/media/cable.83cd01fc.jpg",
+    "static/media/drone.jpg": "/hci-flight-management/static/media/drone.31ed79cc.jpg",
     "static/media/electrical-grid.jpg": "/hci-flight-management/static/media/electrical-grid.a629aa60.jpg",
     "static/media/power-lines.jpg": "/hci-flight-management/static/media/power-lines.f15dfe56.jpg",
     "static/media/index.css": "/hci-flight-management/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b6025ffb.js",
-    "static/css/2.88f12322.chunk.css",
-    "static/js/2.8fc23bee.chunk.js",
-    "static/css/main.51886e4c.chunk.css",
-    "static/js/main.81df0e1b.chunk.js"
+    "static/css/2.6164c976.chunk.css",
+    "static/js/2.97ab2d22.chunk.js",
+    "static/css/main.9f7b9229.chunk.css",
+    "static/js/main.4ac78441.chunk.js"
   ]
 }
